@@ -83,7 +83,7 @@ fun main() {
     println("\nYear:")
     println("2024: " + converter.toYear(2024))
 }
-
+```
 
 Contributing
 
@@ -113,19 +113,7 @@ Ensure the existing tests pass.
 
 Submit a pull request.
 
-Adding Support for Other Languages: This would be a fantastic contribution once the core structure is more stable. If you're familiar with how other languages handle number-to-word conversion, your expertise would be invaluable.
-
 Please feel free to open an issue to discuss any changes you'd like to make before starting significant work.
-
-Future Ideas
-
-Full Kotlin Multiplatform support (iOS, JS, Native).
-
-Support for more languages (adapting rules from the original Python library or other sources).
-
-More configuration options for output formatting.
-
-Performance optimizations.
 
 License
 
