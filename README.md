@@ -85,37 +85,37 @@ fun main() {
 }
 ```
 
-Contributing
+## Contributing
 
 Contributions are very welcome! As this is an early-stage project and my first library, I'd appreciate any help, feedback, or suggestions.
 
 Here are some ways you can contribute:
 
-Reporting Bugs: If you find a bug, please open an issue. Include steps to reproduce it.
+* Reporting Bugs: If you find a bug, please open an issue. Include steps to reproduce it.
 
-Suggesting Features or Enhancements: Have an idea? Let me know by opening an issue.
+* Suggesting Features or Enhancements: Have an idea? Let me know by opening an issue.
 
-Improving Documentation: If something in the README or code comments is unclear, feel free to suggest improvements.
+* Improving Documentation: If something in the README or code comments is unclear, feel free to suggest improvements.
 
-Adding Test Cases: More tests are always good!
+* Adding Test Cases: More tests are always good!
 
-Code Contributions:
+## Code Contributions:
 
-Fork the repository.
+* Fork the repository.
 
-Create a new branch for your feature or bug fix.
+* Create a new branch for your feature or bug fix.
 
-Make your changes.
+* Make your changes.
 
-Add tests for your changes.
+* Add tests for your changes.
 
-Ensure the existing tests pass.
+* Ensure the existing tests pass.
 
-Submit a pull request.
+* Submit a pull request.
 
 Please feel free to open an issue to discuss any changes you'd like to make before starting significant work.
 
-License
+## License
 
 This project is currently not licensed. A license (likely MIT or Apache 2.0) will be added soon.
 
